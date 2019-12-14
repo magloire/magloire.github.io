@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/cvrtest/static/css/main.b100e6da.chunk.css",
-    "main.js": "/cvrtest/static/js/main.730f0331.chunk.js",
-    "main.js.map": "/cvrtest/static/js/main.730f0331.chunk.js.map",
+    "main.js": "/cvrtest/static/js/main.13f73471.chunk.js",
+    "main.js.map": "/cvrtest/static/js/main.13f73471.chunk.js.map",
     "runtime-main.js": "/cvrtest/static/js/runtime-main.36f969a5.js",
     "runtime-main.js.map": "/cvrtest/static/js/runtime-main.36f969a5.js.map",
     "static/js/2.4963c76d.chunk.js": "/cvrtest/static/js/2.4963c76d.chunk.js",
     "static/js/2.4963c76d.chunk.js.map": "/cvrtest/static/js/2.4963c76d.chunk.js.map",
     "index.html": "/cvrtest/index.html",
-    "precache-manifest.8c720127790b7f8975359fd57cf7cb3d.js": "/cvrtest/precache-manifest.8c720127790b7f8975359fd57cf7cb3d.js",
+    "precache-manifest.65a7f0bf5691c77d8f61de57f609e5fc.js": "/cvrtest/precache-manifest.65a7f0bf5691c77d8f61de57f609e5fc.js",
     "service-worker.js": "/cvrtest/service-worker.js",
     "static/css/main.b100e6da.chunk.css.map": "/cvrtest/static/css/main.b100e6da.chunk.css.map"
   }
